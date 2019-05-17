@@ -68,7 +68,7 @@ User can login and add food to the cart and proceed to check out for delivery. U
     <td>
 	Applied Computer Science</td>	 
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Develop ,test and validate code</td>
 	  <td>sonam.gadekari@gmail.com</td> 
   </tr>
   <tr>
