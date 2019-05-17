@@ -4,8 +4,9 @@
 <h4>Project Description:</h4>
 <h4>Project Charter:</h4>
 <h5> Project charter gives a detailed understanding on the Project Team,Goals,Resources and Metrics.The link for the repo is below.</h5>
-<a href="www.google.com">Click here for project repo</a>
+<a href="https://github.com/SonamGadkari/onlinefoodorder">Click here for project repo</a>
 
-
-
+<br>
+<a href ="https://sonamgadkari.github.io/stakeholderregistry">Click here for stakeholder registry</a>
+<p> Click here for stakeholder registry:</p> 
 
