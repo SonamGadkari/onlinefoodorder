@@ -108,6 +108,9 @@ User can login and add food to the cart and proceed to check out for delivery. U
 <li>Phase 3 completed and presented at the end of week 6.(sprint3)</li>
 <li>Phase 4 finalized and published at the end of week 8.(sprint4)</li>
 <li>Project reflections and discussions during week 8.</li>
+<br>
+<h3>Budget</h3><hr />
+<p>Free of Cost</p>
 </div>
 </body>
 </html>
