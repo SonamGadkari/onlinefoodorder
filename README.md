@@ -1,7 +1,7 @@
 # Project title: Online order system
 
 ## Project Description:
-The implementation employs MVC using the Spring framework. We explored implemented it in the food delivery application. Using this web application user can browse through list of available products in the store and order them. User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.
+The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. We explored these technology areas and implemented them in the food delivery application. Using this web application user can browse through list of available products in the store and order them.User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.
 
 ## Project Repository:
 https://github.com/SonamGadkari/onlinefoodorder
@@ -15,11 +15,11 @@ Keerthi Sree Kukunoor<br>
 Harika Naidu<br>
 
 ## Client:
-Sonam Gadkari <br>
-Email - S533490@nwmissouri.edu
+Dr.Denise Case(mentor) <br>
+
 
 ## Team Logo:
-![Logo](https://user-images.githubusercontent.com/42949313/57960049-54084380-78cc-11e9-9f8f-dd5a7208cd2e.png)
+![Logo]()
 
 
 ## Project Charter page:
