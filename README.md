@@ -1,27 +1,44 @@
-<h1>Name of the Project: Online Order System</h1>
-<br>
+# Project title: Online order system
 
-<h2>Team Members:</h2>
- <li>1. Sonam Gadekari</li>
- <li>2. Harika Naidu</li>
- <li>3. Keerthi Sree Kukunoor</li>
- <li>4. Havya Ravipati</li>
- <br>
+## Project Description:
+The implementation employs MVC using the Spring framework. We explored implemented it in the food delivery application. Using this web application user can browse through list of available products in the store and order them. User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.
 
-<h2>Project Description:</h2>
-<p>The implementation employs MVC using the Spring framework. We explored implemented it in the food delivery application. Using this web application user can browse through list of available products in the store and order them. User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.</p>
-<br>
+## Project Repository:
+https://github.com/SonamGadkari/onlinefoodorder
 
-<h2>Project Charter:</h2>
+## Team name: The Amazons 
+
+## Team Members:
+Havya Ravipati
+Sonam Gadkari
+Keerthi Sree Kukunoor
+Harika Naidu
+
+## Client:
+Sonam Gadkari
+Email - S533490@nwmissouri.edu
+
+## Team Logo:
+![](logo.png)
+
+## Project Charter page:
+https://sonamgadkari.github.io/projectCharter
+
+## How we will work together as a team:
+We have planned to use Skype for business or our emails as the primary way of communication. If emergency, we have decided to use the personal mobile numbers as a medium of communication. We decided to meet each other at least thrice a week in library. We think most of the group members are contributing, but if there is someone not participating we will try to know the root cause for that. Together, we will try to resolve any such type of issues and provide motivation to him/her.
+
+## Roles:
+Team Lead - Havya Ravipati (s533630@nwmissouri.edu)
+Team member - Harika Naidu (s533711@nwmissouri.edu)
+Technology supporter - Keerthi sree Kukunoor (s533570@nwmissouri.edu)
+
+## Project Charter:
 <h5> Project charter gives a detailed understanding on the Project Team,Goals,Resources and Metrics.The link for the repo is below.</h5>
 <br>
 
-<h2>Link to the Repository:</h2>
-<a href="https://github.com/SonamGadkari/onlinefoodorder">Click here for project repo</a>
-<br>
-
-<h2>Link to the stakeholder registry:</h2> 
-<a href ="https://sonamgadkari.github.io/stakeholderregistry">Click here for stakeholder registry</a>
-<br>
+## Link to the Repository:
+https://github.com/SonamGadkari/onlinefoodorder
 
 
+## Link to the stakeholder registry:
+https://sonamgadkari.github.io/stakeholderregistry
