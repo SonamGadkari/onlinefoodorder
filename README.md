@@ -9,10 +9,10 @@ https://github.com/SonamGadkari/onlinefoodorder
 ## Team name: The Amazons 
 
 ## Team Members:
-Havya Ravipati
-Sonam Gadkari
-Keerthi Sree Kukunoor
-Harika Naidu
+Havya Ravipati<br>
+Sonam Gadkari<br>
+Keerthi Sree Kukunoor<br>
+Harika Naidu<br>
 
 ## Client:
 Sonam Gadkari <br>
