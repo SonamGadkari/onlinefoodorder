@@ -34,7 +34,7 @@ Team member - Harika Naidu (s533711@nwmissouri.edu) <br>
 Technology supporter - Keerthi sree Kukunoor (s533570@nwmissouri.edu) <br>
 
 ## Project Charter:
-<h5> Project charter gives a detailed understanding on the Project Team,Goals,Resources and Metrics.The link for the repo is below.</h5>
+Project charter gives a detailed understanding on the Project Team,Goals,Resources and Metrics.The link for the repo is below.
 <br>
 
 ## Link to the Repository:
@@ -42,4 +42,5 @@ https://github.com/SonamGadkari/onlinefoodorder
 
 
 ## Link to the stakeholder registry:
-https://sonamgadkari.github.io/stakeholderregistry
+https://sonamgadkari.github.io/projectCharter
+
