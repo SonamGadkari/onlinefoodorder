@@ -70,7 +70,36 @@ User can login and add food to the cart and proceed to check out for delivery. U
 	 <td>Develop,test and validate code</td>
 	 <td>Internal</td> 
 	  <td>sonam.gadekari@gmail.com</td> 
-  </tr> 
+  </tr>
+  <tr>
+    <td>Harika Naidu</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>nagaharika.n@gmail.com</td> 
+  </tr>
+  <tr>
+    <td>Havya Ravipati</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>havya.ravipati@gmail.com</td> 
+  </tr>
+<tr>
+    <td>KeerthiSree kukkunoor</td>
+    <td>Developer</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop,test and validate code</td>
+	  <td>keerthi.sree@gmail.com</td> 
+  </tr>
+</table>
+<br>
 </div>
 </body>
 </html>
