@@ -1,6 +1,8 @@
 <h1>Name of the Project: Online Order System</h1>
 <br>
 
+<h2>Team Name:</h2>
+
 <h2>Team Members:</h2>
  <li>1. Sonam Gadekari</li>
  <li>2. Harika Naidu</li>
