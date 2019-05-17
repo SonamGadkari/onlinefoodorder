@@ -19,7 +19,7 @@ Dr.Denise Case(mentor) <br>
 
 
 ## Team Logo:
-![Logo]()
+![Logo](https://github.com/SonamGadkari/onlinefoodorder/blob/master/TeamLogo.PNG)
 
 
 ## Project Charter page:
