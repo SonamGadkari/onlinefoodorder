@@ -13,3 +13,8 @@
         <a class="navbar-brand js-scroll-trigger" href="#">           
             Project Charter: Online Food Delivering App
         </a>
+        </nav>
+<br>
+<h2>Project Information:</h2>
+<p>The implementation employs HTML,CSS,Javascript,Node.Js,Express and Bootstrap. 
+We explored these technology areas and implemented them in the food delivery application. 
