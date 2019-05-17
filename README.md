@@ -1,4 +1,4 @@
-# Project title: Online order system
+# Project Title: Online order system
 
 ## Project Description:
 The implementation employs MVC using the Spring framework. We explored implemented it in the food delivery application. Using this web application user can browse through list of available products in the store and order them. User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.
