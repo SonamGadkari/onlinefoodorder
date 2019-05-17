@@ -1,4 +1,4 @@
-# Project Title: Online order system
+# Project title: Online order system
 
 ## Project Description:
 The implementation employs MVC using the Spring framework. We explored implemented it in the food delivery application. Using this web application user can browse through list of available products in the store and order them. User can login and add food to the cart and proceed to check out for delivery. User can browse the detailed information about a product.
@@ -15,7 +15,7 @@ Keerthi Sree Kukunoor
 Harika Naidu
 
 ## Client:
-Sonam Gadkari
+Sonam Gadkari <br>
 Email - S533490@nwmissouri.edu
 
 ## Team Logo:
@@ -28,9 +28,9 @@ https://sonamgadkari.github.io/projectCharter
 We have planned to use Skype for business or our emails as the primary way of communication. If emergency, we have decided to use the personal mobile numbers as a medium of communication. We decided to meet each other at least thrice a week in library. We think most of the group members are contributing, but if there is someone not participating we will try to know the root cause for that. Together, we will try to resolve any such type of issues and provide motivation to him/her.
 
 ## Roles:
-Team Lead - Havya Ravipati (s533630@nwmissouri.edu)
-Team member - Harika Naidu (s533711@nwmissouri.edu)
-Technology supporter - Keerthi sree Kukunoor (s533570@nwmissouri.edu)
+Team Lead - Havya Ravipati (s533630@nwmissouri.edu) <br>
+Team member - Harika Naidu (s533711@nwmissouri.edu) <br>
+Technology supporter - Keerthi sree Kukunoor (s533570@nwmissouri.edu) <br>
 
 ## Project Charter:
 <h5> Project charter gives a detailed understanding on the Project Team,Goals,Resources and Metrics.The link for the repo is below.</h5>
