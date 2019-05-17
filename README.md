@@ -19,7 +19,7 @@ Sonam Gadkari <br>
 Email - S533490@nwmissouri.edu
 
 ## Team Logo:
-![](logo.png)
+https://raw.githubusercontent.com/SonamGadkari/onlinefoodorder/master/Logo.PNG
 
 ## Project Charter page:
 https://sonamgadkari.github.io/projectCharter
