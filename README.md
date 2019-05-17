@@ -16,11 +16,11 @@
 <h5> Project charter gives a detailed understanding on the Project Team,Goals,Resources and Metrics.The link for the repo is below.</h5>
 <br>
 
-<h4>Link to the Repository:</h4>
+<h2>Link to the Repository:</h2>
 <a href="https://github.com/SonamGadkari/onlinefoodorder">Click here for project repo</a>
 <br>
 
-<h4>Link to the stakeholder registry</h4> 
+<h2>Link to the stakeholder registry</h2> 
 <a href ="https://sonamgadkari.github.io/stakeholderregistry">Click here for stakeholder registry</a>
 <br>
 
