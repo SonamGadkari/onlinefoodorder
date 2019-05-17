@@ -20,7 +20,7 @@
 <a href="https://github.com/SonamGadkari/onlinefoodorder">Click here for project repo</a>
 <br>
 
-<h2>Link to the stakeholder registry</h2> 
+<h2>Link to the stakeholder registry:</h2> 
 <a href ="https://sonamgadkari.github.io/stakeholderregistry">Click here for stakeholder registry</a>
 <br>
 
