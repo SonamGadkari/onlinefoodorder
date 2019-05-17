@@ -27,3 +27,16 @@ User can login and add food to the cart and proceed to check out for delivery. U
  <li>3. Keerthi Sree Kukunoor</li>
  <li>4. Havya Ravipati</li>
 <br>
+<h2>Stories by Role</h2><hr />
+<p> Sonam: As a developer,I want to design the home page ,so that customer can view the home page of the website.</p>
+<p> Harika: As a developer,I want to design the products list page available in the store,so that customer can browse through the available products and purchase the interested items.</p>
+<p> Keerthi:As a developer, I want to design the detailed view page of a product,so that the customer can browse the detailed information about a product.</p>
+<p> Havya:As a developer,I want to design a contact page,so that the customer can initiate any grievances.</p>
+<p> Sonam:As a developer, I want to design the add to cart page,so that the user can add/update/delete the products displayed in the cart.</p>
+<p> Harika:As a developer, I want to design the payment form page ,so that the customer have scope to enter the purchase information.</p>
+<p> Keerthi:As a developer, I want to design the order confirmation page ,so that the customer can view the order information.</p>
+<p> Havya:As a developer,I want to design a Thank you page,so that the customer get details on the delivery date</p>
+<p> Sonam:As a developer,I want to design a login page,so that the customer gets the scope to register and login with the credentials</p>
+<p> Harika:As a developer,I want to design a admin login page,so that the admin can login and update the product quantity ,cost and customer information</p>
+<p> Keerthi:As a developer,I want to design a products portfolio,so that the customer can have a look and purchase the product right away.</p>
+<p> Havya: As a developer,I want to design a check out page ,so that the customer can confirm all the ordered items checking the price.</p>
