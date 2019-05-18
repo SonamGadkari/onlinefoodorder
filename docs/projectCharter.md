@@ -111,6 +111,32 @@ User can login and add food to the cart and proceed to check out for delivery. U
 <br>
 <h3>Budget</h3><hr />
 <p>Free of Cost</p>
+
+<h2>Project Scope:</h2><hr />
+<p> During <b>Phase 1</b>, Project Initiation
+<p>The team members work independently</p>
+<p> Deliverables:</p><hr />
+ <li> Project Charter</li>
+ <li> StakeHolder Registry</li>
+ <li> Use cases and mock ups</li>
+ <li> Schedule and Budget documents</li>
+ <br>
+ <p> During <b>Phase 2</b>, Definition and planning</p>
+ <p> Deliverables:</p><hr />
+ <li> ER diagrams</li>
+ <li> Product Backlog</li>
+ <li> User Stories</li>
+ <li> List of projects, define Spints,Epics in JIRA</li>
+ <li>Define tasks, subtasks, provide estimates and deadlines in JIRA</li>
+ <br>
+ <p> During <b>Phase 3</b>, Implementation and Execution</p>
+ <li> Make progress in the work </li>
+ <li> Resolve impedements</li>
+ <li> Deliver a usable product at the end of every sprint</li>
+<br>
+ <p> During <b>Phase 4</b>, Iterations and Transition</p>
+ <li>Release and live run</li>
+ <li> Improvements,Enhacements to the application</li>
 </div>
 </body>
 </html>
