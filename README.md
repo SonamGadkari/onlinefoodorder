@@ -46,5 +46,5 @@ https://sonamgadkari.github.io/projectCharter
 
 ## Team Signatures:
 
-Harika Naidu
-Keerthi sree Kukunoor
+Harika Naidu<br>
+Keerthi sree<br>
