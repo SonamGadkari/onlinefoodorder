@@ -44,6 +44,7 @@ https://github.com/SonamGadkari/onlinefoodorder
 ## Link to the stakeholder registry:
 https://sonamgadkari.github.io/projectCharter
 
-##Signatures:
+## Team Signatures:
 
 Harika Naidu
+Keerthi sree Kukunoor
