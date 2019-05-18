@@ -52,7 +52,7 @@ User can login and add food to the cart and proceed to check out for delivery. U
 	<th>Type of StakeHolder</th>
 	<th>Expectations</th>
 	<th>Contact Info</th>
-  </tr>
+  </tr>s
   <tr>
     <td>Dr.Denise Case</td>
     <td>Mentor</td> 
